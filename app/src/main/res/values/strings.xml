@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="timer2">00:30</string>
+    <string name="go">GO</string>
+</resources>
